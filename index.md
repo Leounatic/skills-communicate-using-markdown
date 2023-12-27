@@ -3,3 +3,7 @@
 ```{r}
 cat("The mean of x is:", mean(x))
 ```
+Add now a Task list:
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
